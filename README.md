@@ -14,7 +14,7 @@ Welcome to my cybersecurity portfolio! This README provides an overview of the c
 ### Microsoft Certified: Azure Fundamentals (Issued Sep 2022)
 ### Microsoft Office Specialist 2016 (Issued Apr 2019)
 ## Education
-Bachelor of Science in Computer Science (In Progress)
-Arizona State University, Tempe, AZ
-Associate of Arts in Computer Science(Completed)
-Seminole State College, Sanford, FL
+### Bachelor of Science in Computer Science (In Progress)
+#### Arizona State University, Tempe, AZ
+### Associate of Arts in Computer Science(Completed)
+#### Seminole State College, Sanford, FL
