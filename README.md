@@ -14,6 +14,6 @@ Welcome to my cybersecurity portfolio! This README provides an overview of the c
 ### Microsoft Certified: Azure Fundamentals (Issued Sep 2022)
 
 ## Contact
-#### Emsil: nafri.nima@gmail.com
+#### Email: nafri.nima@gmail.com
 #### LinkedIn: 
 
