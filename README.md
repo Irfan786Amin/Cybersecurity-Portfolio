@@ -1,7 +1,8 @@
 # Cybersecurity-Portfolio
 Cybersecurity portfolio featuring projects/experiences focused on protecting digital assets and mitigating cyber threats. From penetration testing to network security, explore methodologies, tools, and outcomes. 
 ## Summary
-Entry-level Cybersecurity Analyst with experience in utilizing SIEM analysis software and querying TCPdump to protect assets. Possesses a strong security mindset and is inspired to learn and build upon the zero trust principle. Proficient in SQL, Python, Linux, TCPdump, Wireshark, and security frameworks such as NIST and TCP/IP. Experienced in inventory management, Excel, project management methodologies (Agile, Scrum), and interpersonal communication.
+Welcome to my cybersecurity portfolio! This README provides an overview of the contents of this repository, including my experience, projects, and certifications in the field of cybersecurity. Below, you'll find detailed information about my background, the projects I've worked on, and the certifications I've obtained. Whether you're a potential employer, colleague, or fellow cybersecurity enthusiast, I hope you find this portfolio informative and insightful.
+## Projects
 
 ## Experience
 
