@@ -12,7 +12,7 @@ This README provides an overview of the contents of this repository, including m
 
 ## Certification
 ### CompTia A+
-#### [A+](https://github.com/Irfan786Amin/A+)
+#### [A+](https://github.com/Irfan786Amin/A_plus)
 ### CompTia Network+
 #### [A+](https://github.com/Irfan786Amin/Network+)
 ### Comptia Security+
