@@ -12,13 +12,13 @@ This README provides an overview of the contents of this repository, including m
 
 ## Certification
 ### CompTia A+
-#### [A+](https://github.com/Irfan786Amin/A_plus)
+
 ### CompTia Network+
-#### [A+](https://github.com/Irfan786Amin/Network+)
+
 ### Comptia Security+
-#### [A+](https://github.com/Irfan786Amin/Security+)
+
 ### Comptia CySa+
-#### [A+](https://github.com/Irfan786Amin/CySa+)
+
 ### Google Project Management Professional (Issued Mar 2024)
 ### Google CyberSecurity Professional (Issued Jan 2024)
 ### Microsoft Certified: Azure Fundamentals (Issued Sep 2022)
