@@ -3,27 +3,6 @@ Cybersecurity portfolio featuring projects/experiences focused on protecting dig
 ## Summary
 This README provides an overview of the contents of this repository, including my experience, projects, and certifications in the field of cybersecurity. Below, you'll find more information about the projects I've worked on, my experience, and certifications I've obtained.
 ## Projects
-### Password Manager
-#### [Password Manager](https://github.com/Irfan786Amin/Password_Manager)
+## Security Policy Implementation Challenge
 
-## Experience
-### Google CyberSecurity Professional Course
-#### (explanation of Coursework plus portfolio)
-
-## Certification
-### CompTia A+
-
-### CompTia Network+
-
-### Comptia Security+
-
-### Comptia CySa+
-
-### Google Project Management Professional (Issued Mar 2024)
-### Google CyberSecurity Professional (Issued Jan 2024)
-### Microsoft Certified: Azure Fundamentals (Issued Sep 2022)
-
-## Contact
-#### Email: nafri.nima@gmail.com
-#### LinkedIn: 
 
